@@ -26,3 +26,4 @@ Using the option "Adjust dot" you can move the crosshair/dot to another position
 Using the option "Reset dot" the dot is re-aligned to the center of your primary screen.
 
 The context menu entry "Exit" quits the application and removes the crosshair.
+
